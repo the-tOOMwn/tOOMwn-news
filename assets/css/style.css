@@ -8,15 +8,20 @@ h1 {
   font-size: 50px;
   color: #f7f7f7;
 }
+
 body {
   margin-left: 100px;
   margin-right: 100px;
   background-color: #242424;
 }
+
 h2, h3, h4, h5, h6, p {
   font-family: 'EB Garamond';
   color: #f7f7f7;
 }
+
+p {
+  color: #FFFFFF;
 
 a {
     background-color: #dcf5dc;
