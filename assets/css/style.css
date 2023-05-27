@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+
+h1 {
+  font-family: 'Fredericka the Great';
+  text-align: centre;
+  font-weight: normal;
+  font-size: 50px;
+}
+body {
+  margin-left: 100px;
+  margin-right: 100px;
+  color: #f7f7f7;
+}
+h2, h3, h4, h5, h6, p {
+  font-family: 'EB Garamond';
+}
+
+a {
+    background-color: #dcf5dc;
+    color: #edfced;
+}
+
+a:hover {
+    background-color: #c0edc0;
+    color: #FFFFFF;
+}
+.footer {
+    font-size: smaller;
+    text-align: center;
+    font-family: Brandon;
+    margin: 0px;
+}
+.home {
+    color: #e8f2ff;
+    font-weight: bold;
+    background-color: #d6e8ff;
+}
+.home:hover{
+    color: #FFFFFF;
+    background-color: #bfd6f2;
+}
