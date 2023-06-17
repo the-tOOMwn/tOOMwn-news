@@ -2,10 +2,7 @@
 Welcome to the Town's news collections!
 
 ### News Reporters
-Athu
-Jonathan
-Shan-Mei
-Spicata
+Athu<br>Jonathan<br>Shan-Mei<br>Spicata
 
 ### Athu's Articles
 
